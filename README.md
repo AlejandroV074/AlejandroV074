@@ -37,7 +37,8 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'www.linkedin.com/in/alejandrovargascuartas'><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> Alejandro Vargas</a>
+<a href = 'www.linkedin.com/in/alejandrovargascuartas'><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<h2>Alejandro Vargas</h2>
   
 <br>
 <br>
