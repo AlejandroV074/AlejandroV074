@@ -1,13 +1,11 @@
 <h1 align="center"> Hello There 👋 ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<p align="center">
-  <span style="color: #1f6feb; font-size: 24px;">FrontEnd Developer</span>
-  <img alt="Hola" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="70px" height="70px">
-</p>
-
-
 <p align='center' size='20px'>
   Hi! i'm Alejandro Vargas from Colombia. Thank You for taking the time to view my GitHub Profile :smile: <br/></p>
+  
+<p align="center">FrontEnd Developer
+  <img alt="Hola" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="70px" height="70px">
+</p>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
