@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋 ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<h2 align="center">FrontEnd Developer <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h2>
+<p align="center" color="blue">FrontEnd Developer <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></p>
 <p align='center' size='20px'>
   Hi! i'm Alejandro Vargas from Colombia. Thank You for taking the time to view my GitHub Profile :smile: <br/></p>
 
