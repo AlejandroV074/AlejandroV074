@@ -1,9 +1,9 @@
 <h1> Hello There 👋 ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center' size='20px'>
-  Hi! My name is Alejandro Vargas. Thank You for taking the time to view my GitHub Profile :smile: 
+  Hi! i'm Alejandro Vargas from Colombia. Thank You for taking the time to view my GitHub Profile :smile: 
 </p>
 
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/AlejandroV074)
+[![Github](https://img.shields.io/github/followers/AlejandroV074?label=Follow&style=social)](https://github.com/AlejandroV074)
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
