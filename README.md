@@ -28,6 +28,6 @@
 
 
 <h2> Connect with me</h2>
-<a href = 'www.linkedin.com/in/alejandrovargascuartas/'><img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href='www.linkedin.com/in/alejandrovargascuartas/'><img src="https://skillicons.dev/icons?i=linkedin"/>asdasd</a>
 <br>
 <br>
