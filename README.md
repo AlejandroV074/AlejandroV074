@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<p align="center">
-  <img alt="Hola" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="70px" height="70px"> FrontEnd Developer
+<p align="center", color="#1f6feb">FrontEnd Developer
+  <img alt="Hola" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="70px" height="70px">
 </p>
 
 <p align='center' size='20px'>
