@@ -21,13 +21,13 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,tailwind,java,js,react,nodejs,py,django,flask,docker,mysql,firebase,postman,linux,figma,discord,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,tailwind,java,js,react,nodejs,py,django,flask,mysql,firebase,docker,postman,linux,figma,discord,vscode&perline=14" />
   </a>
 </p>
 
 
 
 <h2> Connect with me</h2>
-<a href='www.linkedin.com/in/alejandrovargascuartas/'><img src="https://skillicons.dev/icons?i=linkedin"/>asdasd</a>
+<a href='www.linkedin.com/in/alejandrovargascuartas/'><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <br>
 <br>
