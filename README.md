@@ -1,9 +1,8 @@
-<h1 align="center">Hello There 👋 !</h1>
+<h1 align="center">Hello There 👋 ! <br> FrontEnd Developer</h1>
 <p align="center">
   <img alt="Hola" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" height="70px" width="70px">
-  FrontEnd Developer
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
+
 
 <p align="center"></p>
 
