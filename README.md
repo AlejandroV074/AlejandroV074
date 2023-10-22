@@ -1,4 +1,4 @@
-<h1> Hello There 👋 ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> Hello There 👋 ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center' size='20px'>
   Hi! i'm Alejandro Vargas from Colombia. Thank You for taking the time to view my GitHub Profile :smile: <br/>
   FrontEnd Developer
