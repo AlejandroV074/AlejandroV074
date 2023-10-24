@@ -32,7 +32,9 @@
 
 
 <h2> Connect with me</h2>
-<a href='https://www.linkedin.com/in/alejandrovargascuartas'><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href='https://www.linkedin.com/in/alejandrovargascuartas' target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+</a>
 <br>
 <br>
 <div align="center">
