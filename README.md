@@ -33,9 +33,5 @@
 
 <h2> Connect with me</h2>
 <a href='https://www.linkedin.com/in/alejandrovargascuartas' target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<br>
-<br>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<a href='alejandrovargascuartas@gmail.com' target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+
