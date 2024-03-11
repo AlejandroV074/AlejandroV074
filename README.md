@@ -33,5 +33,4 @@
 
 <h2> Connect with me</h2>
 <a href='https://www.linkedin.com/in/alejandrovargascuartas' target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href='alejandrovargascuartas@gmail.com' target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-
+<a href='mailto:alejandrovargascuartas@gmail.com' target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
