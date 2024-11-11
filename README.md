@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋 ! <br> FullStack Developer</h1>
+<h1 align="center">Hello There 👋 ! <br>Junior Full Stack Developer</h1>
 <p align="center">
   <img alt="github" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="70px" width="70px">
   <img alt="bongo-cat" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" height="70px" width="70px">
@@ -25,7 +25,7 @@
 <h2> Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,react,nodejs,py,django,flask,mysql,firebase,linux,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,js,react,nodejs,py,django,flask,mysql,firebase,linux,figma" />
   </a>
 </p>
 
@@ -34,3 +34,8 @@
 <h2> Connect with me</h2>
 <a href='https://www.linkedin.com/in/alejandrovargascuartas' target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href='mailto:alejandrovargascuartas@gmail.com' target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+
+<h2>CV</h2>
+<a href="[ENLACE_DE_DESCARGA](https://drive.google.com/file/d/1LYe-SF0XygZbZiBXwJGbV04KbJAKH-Jl/view?usp=sharing)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=htmx" alt="CV PDF" />
+</a>
