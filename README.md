@@ -36,6 +36,6 @@
 <a href='mailto:alejandrovargascuartas@gmail.com' target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 <h2>CV</h2>
-<a href="[ENLACE_DE_DESCARGA](https://drive.google.com/file/d/1LYe-SF0XygZbZiBXwJGbV04KbJAKH-Jl/view?usp=sharing)" target="_blank">
+<a href="https://drive.google.com/file/d/1rOJNR9EwYJxL5Z427Gct_lnlc8tIc1D5/view?usp=sharing" target="_blank">
     <img src="https://skillicons.dev/icons?i=htmx" alt="CV PDF" />
 </a>
